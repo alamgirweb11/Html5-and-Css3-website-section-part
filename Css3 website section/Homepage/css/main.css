@@ -65,3 +65,49 @@ section#service-paragraph{
 	         margin: 100px;
 	         margin-left: 400px;
 }
+/*Portfolio section style*/
+/*portfolio image*/
+img#project1-image, img#project2-image, img#project3-image{
+	         margin-left: 401px;
+}
+/*portfolio title and paragraph*/
+div#project1, div#project3{
+        margin-left: 1150px;
+        position: absolute;
+        top: 121px;
+        left: 0px;
+        width: 400px;
+}
+
+div#project2{ 
+	    margin-left: 1150px;
+        position: absolute;
+        top: 482px;
+        left: 0px;
+        width: 400px;
+ }
+
+ div#project3{ 
+	    margin-left: 1150px;
+        position: absolute;
+        top: 837px;
+        left: 0px;
+        width: 400px;
+ }
+/*project1 button*/
+a#project1-button, a#project2-button, a#project3-button{
+	      width: 100px;
+	      height: 60px;
+	      background: #c51a1a;
+	      padding: 20px;
+	      position: relative;
+	      top: 4px;
+	      left: -21px;
+}
+/*project2*/
+section#project2{
+	         margin-top: 50px;	         
+}
+section#project3{
+	         margin-top: 50px;	         
+}
