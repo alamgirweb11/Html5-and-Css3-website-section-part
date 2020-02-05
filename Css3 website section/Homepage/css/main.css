@@ -49,3 +49,19 @@ p.footer_text{
 	         line-height: 13;
 	         text-align: center;
 }
+/* Sevice page style*/
+/*page title*/
+.page_title{
+	       margin-left: 400px;
+	       color: #021428;
+}
+/*service slideshow*/
+img.service_slide{
+	         margin-left: 401px;
+	         width: 67%;
+}
+/* Service paragraph style*/
+section#service-paragraph{
+	         margin: 100px;
+	         margin-left: 400px;
+}
