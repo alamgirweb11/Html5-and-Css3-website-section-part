@@ -71,7 +71,7 @@ img#project1-image, img#project2-image, img#project3-image{
 	         margin-left: 401px;
 }
 /*portfolio title and paragraph*/
-div#project1, div#project3{
+div#project1{
         margin-left: 1150px;
         position: absolute;
         top: 121px;
@@ -110,4 +110,17 @@ section#project2{
 }
 section#project3{
 	         margin-top: 50px;	         
+}
+/*About page style*/
+/*image style*/
+img#about-page-image{
+	            margin-left: 402px;
+}
+/*about page content*/
+div#about-page-paragraph{
+	            margin-left: 1150px;
+		        position: absolute;
+		        top: 121px;
+		        left: 0px;
+		        width: 400px;
 }
