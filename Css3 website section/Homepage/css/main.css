@@ -1,0 +1,51 @@
+body{
+	     font-family: roboto;
+}
+/* Navigation */
+nav{
+	    background: #021428;
+	    width: 1903px;
+	    height: 70px;
+}
+a{
+	 line-height: 4;
+	 color: #fff;
+	 font-weight: bolder;
+	 text-decoration: none;
+	 margin-left: 20px;
+	 position: relative;
+	 top: -11px;
+	 left: 40px;
+}
+a:hover{
+	   color: #25C6FB;
+}
+a.active{
+	    color: #08AF0C;
+}
+img.logo{
+	       margin-left: 402px;
+	       margin-right: 20px;
+	       margin-top: 14px; 
+}
+/* Slide show*/
+.slider-show{
+	         border-bottom: 10px solid #021428;
+	         width: 1903px;
+}
+/*Homepage content*/
+#paragraph {
+	margin: 100px;
+}
+/*Footer*/
+#footer{
+	         background: #021428;
+	         margin-top: 200px;
+	         width: 100%;
+	         height: 215px;
+	         color: #fff;
+}
+p.footer_text{
+	         line-height: 13;
+	         text-align: center;
+}
